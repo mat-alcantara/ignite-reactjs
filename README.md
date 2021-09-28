@@ -29,11 +29,13 @@ Repositório dedicado a organizar todos os desafios completados durante o bootca
 #### Capítulo 01
 
 [Conceitos de React](https://github.com/mat-alcantara/ignite-reactjs-conceitos-de-react)
+
 [Componentizando a aplicação](https://github.com/mat-alcantara/ignite-componentizando-a-aplicacao)
 
 #### Capítulo 02
 
 [Criando um hook de carrinho de compras](https://github.com/mat-alcantara/ignite-reactjs-criando-hook-de-carrinho)
+
 [Refactoring de classes e TypeScript](https://github.com/mat-alcantara/ignite-reactjs-refactoring-classes-e-typescript)
 
 #### Capítulo 03
@@ -43,6 +45,7 @@ Repositório dedicado a organizar todos os desafios completados durante o bootca
 #### Capítulo 04
 
 [Interface com Chakra UI](https://github.com/mat-alcantara/worldtrip)
+
 [Upload de imagens](https://github.com/mat-alcantara/upfi)
 
 #### Capítulos 5 e 6
@@ -60,5 +63,7 @@ Os desafios desses capítulos são baseados em desafios anteriores. No capítulo
 #### Capítulo 01
 
 [Conceitos do Node.js](https://github.com/mat-alcantara/conceitos-de-nodejs)
+
 [Trabalhando com Middlewares](https://github.com/mat-alcantara/ignite-nodejs-trabalhando-com-middlewares)
+
 [Corrigindo o código](https://github.com/mat-alcantara/ignite-nodejs-corrigindo-o-codigo)
